@@ -53,7 +53,7 @@ img {
 }
 
 /*Especificidad: 001*/
-section {
+article {
     display: block;
     border: 0.25em solid rgba(0, 0, 0, 0.39);
     border-radius: 0.75em;
